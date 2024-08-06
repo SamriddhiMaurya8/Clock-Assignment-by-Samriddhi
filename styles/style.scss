@@ -1,0 +1,35 @@
+@import '_digital' ;
+@import '_analog' ;  
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+body{
+        // //  background: linear-gradient(45deg , #08001f , #55197d) ;
+        //  background-color: skyblue;
+        // background: linear-gradient(to right, #da4453, #89216b);
+        background-color:rgb(192, 223, 213) ;   
+          
+    }
+
+
+h1{
+    margin-left: 45%;
+    color: brown;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    
+}
+// .main{
+//     border: 3px solid blue;
+//    margin: 0 185px;
+//    margin-top: 34px;
+//    height: 500px;
+//    margin-left: 150px;
+// //    margin-left: 30px;
+
+// }
